@@ -14,3 +14,5 @@ Example project to demonstrate the use of JAXB in Java.
   * [Package javax.xml.bind](https://jakarta.ee/specifications/xml-binding/2.3/apidocs/javax/xml/bind/package-summary.html)
   * [Package javax.xml.bind.annotation](https://jakarta.ee/specifications/xml-binding/2.3/apidocs/javax/xml/bind/annotation/package-summary.html)
   * [Package javax.xml.bind.annotation.adapters](https://jakarta.ee/specifications/xml-binding/2.3/apidocs/javax/xml/bind/annotation/adapters/package-summary.html)
+* Tutorials:
+  * [The Java Tutorials: Trail: Java Architecture for XML Binding](https://docs.oracle.com/javase/tutorial/jaxb/)
