@@ -9,3 +9,4 @@ Example project to demonstrate the use of JAXB in Java.
 * [Jakarta XML Binding](https://projects.eclipse.org/projects/ee4j.jaxb)
 * [Jakarta XML Binding Specification 2.3](https://jakarta.ee/specifications/xml-binding/2.3/)
 * [JAXB RI](https://eclipse-ee4j.github.io/jaxb-ri/)
+* [JSR 222: Java Architecture for XML Binding (JAXB) 2.3](https://www.jcp.org/en/jsr/detail?id=222)
